@@ -31,7 +31,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning FROM ANSIBLE MKHOME SETTING ANSIBLE.i... </h1>
+   <h1> Thankyou, Happy Learning  </h1>
+   <br>
+
+   <h1> Enjoy with DEVOPS  </h1>
 
   
 </form>
