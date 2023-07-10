@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> user Register for DevOps Learning test autodeploy REGAPP_CI.1</h1>
+    <h1> user Register for DevOps Learning test autodeploy END OF COURSE</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
