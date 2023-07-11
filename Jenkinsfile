@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'docker build -t tomcat:ans .'
+                sh 'mvn clean install'
             }
         }
         stage('Test') {
