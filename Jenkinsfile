@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                touch /tmp/createfromjen
+                sh 'touch /tmp/createfromjen'
             }
         }
         stage('Test') {
