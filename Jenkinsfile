@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'touch /tmp/createfromjen'
+                sh 'docker build -t tomcat:ans .'
             }
         }
         stage('Test') {
