@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'docker -t tomcat:jn .'
+                sh 'docker build -t tomcat:jn .'
             }
         }
         stage('Test') {
